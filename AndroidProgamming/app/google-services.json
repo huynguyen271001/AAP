@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "203031833325",
+    "firebase_url": "https://androidprogamming-default-rtdb.firebaseio.com",
+    "project_id": "androidprogamming",
+    "storage_bucket": "androidprogamming.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203031833325:android:3ae6d82da61e1401d9bae4",
+        "android_client_info": {
+          "package_name": "com.example.androidprogamming"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "203031833325-9gjvp2jbhhbfsd6l0oi0rc8oi0aacdos.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfV8o5Z_PoATu1HABJbAdpVYmGrc5PbMc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "203031833325-9gjvp2jbhhbfsd6l0oi0rc8oi0aacdos.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
